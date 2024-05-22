@@ -1,5 +1,4 @@
-# ml_final_spring_2024
-A Supervised Machine Learning Approach forSkin Cancer Detection with Convolutional Neural Networks:
+# A Supervised Machine Learning Approach for Skin Cancer Detection with Convolutional Neural Networks:
 Steve Veldman - 5/22/2024
 
 Welcome to the repository for my spring 2024 machine learning final for the University of Chicago Masters in Applied Data Science program.
